@@ -3,5 +3,5 @@ def square_array(array)
   array.each do |x|
     array.push(x**2)
   end
-  square_array
+  array1
 end
